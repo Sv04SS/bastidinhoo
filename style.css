@@ -1,0 +1,55 @@
+/*
+primary:#937DC2
+secundary:#C689C6
+light:#FFABE1
+info:#FFE6F7
+*/
+
+.text-light
+{
+    color:black;
+
+}
+
+
+.text-secondary
+{
+    color:#FFE6F7;
+
+}
+
+.bg-primary
+{
+   background-color:#937DC2 ; 
+
+}
+
+.text-center
+{
+    text-align: center;
+
+}
+
+.bg-info
+{
+    background-color:#FFABE1;
+
+}
+
+.whidth-100
+{
+    width: 100px;
+
+}
+
+hr
+{
+    color: deeppink;
+
+}
+
+.tex-white
+{
+    color: white;
+
+}
